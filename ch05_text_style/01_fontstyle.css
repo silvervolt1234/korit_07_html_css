@@ -1,0 +1,11 @@
+p {
+  /* font-style: italic; */
+  /* font-style: oblique; */
+  font-style: italic;
+
+  /* font-weight의 경우 normal / bold / 100 ~ 900 까지의 범위
+     다만 700에서 900으로 바뀌는데 더 굵게 되지 않으면 700까지만 지원하는 것 */
+  font-weight: bold;
+  font-weight: normal;
+  font-weight: bold;
+}
